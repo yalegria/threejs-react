@@ -1,6 +1,7 @@
 
+This project should be used as a starter for React projects and three.js library.
 
-# Run app
+## Run app
 
 In the project directory, you can run:
 
